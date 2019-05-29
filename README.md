@@ -11,7 +11,7 @@ In order to run the web chat you need to run `go run main.go` on src of both pro
 #### Unfinished tasks
   - I didn't do any bonuses
   - The bot is not finished. It's almost done but I had a problem with WSS communication. When you try to send a message to it, it finish the execution with an error of protocols
-  - I didn't test anything. I think that a feature is not finished until you test it, so this point makes me really sad. I ran out of time and i couldn't test anything.
+  - I didn't test anything. I think that a feature is not finished until you test it, so this point makes me really sad. I ran out of time and i couldn't do it.
 
 #### Other comments
 
